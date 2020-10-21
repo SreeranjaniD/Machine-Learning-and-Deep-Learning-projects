@@ -6,3 +6,4 @@ AI projects include Machine Learning, Deep Learning pet projects using scikit-le
 
 
 ## Deep Learning projects
+1. [Handwritten digits generation using DCGAN](https://github.com/SreeranjaniD/Machine-Learning-and-Deep-Learning-projects/tree/main/Deep%20Learning%20projects/DCGAN)
